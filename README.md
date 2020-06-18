@@ -2,7 +2,7 @@
 
 ## AIM : To build a project which classified you file on the basis of extention.
 
-### Skills USED : Basic Python
+  ### SKILLS USED : Basic Python
 
 * ### USER 
   [DEEPAK](https://github.com/deepak2233)
