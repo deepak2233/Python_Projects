@@ -23,7 +23,7 @@
  PND, XLC, MP3, MP4 etc. and in second image you will see result of the program.
  
  ### SKILLS USED:
- Basic Python and some usefull library.
+ Basic Python and some usefull library. 
 
  ### USER:
  [DEEPAK](https://github.com/deepak2233)
