@@ -1,11 +1,11 @@
 ### Table of content
 
- * #### Project-Name
- * #### Aim
- * #### Description
- * #### Demo
- * #### Skill-Used
- * #### User
+ * Project-Name
+ * Aim
+ * Description
+ * Demo
+ * Skill-Used
+ * User
  
  ### Project Name: 
  File-Classified System   
@@ -25,6 +25,6 @@
  ### SKILLS USED:
  Basic Python and some usefull library.
 
-* ### USER:
-  [DEEPAK](https://github.com/deepak2233)
+ ### USER:
+ [DEEPAK](https://github.com/deepak2233)
 
