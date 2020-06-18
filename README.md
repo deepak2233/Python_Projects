@@ -15,7 +15,7 @@
  
  ### Description: 
  I've created a program which classified you files on the basis of extention, which your work easily to collect files on the basis of 
- extentions. In this program, simply you have put your directry name (where you are facing problem and) and it will manage/ collect 
+ extentions. In this program, simply you have put your directry name (where you are facing problem and) and it will manage /collects
  your all files on the basis of extentions. It will automatically generate folders on the basis of extentions name.
  
  ### Demo:
