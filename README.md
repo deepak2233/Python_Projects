@@ -1,6 +1,14 @@
-# PROJECT - 1
 
-## AIM : To build a project which classified you file on the basis of extention.
+   * [Project-Name]
+   * [Aim]
+   * [Description]
+   * [Skill-Used]
+   
+   
+   
+
+### AIM : To build a program which classified your file on the basis of extention.
+
 
   ### SKILLS USED : Basic Python
 
