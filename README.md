@@ -11,7 +11,7 @@
  File-Classified System   
 
  ### AIM: 
- To build a program, which classified your file on the basis of extention.
+ To build a program, which classified your file on the basis of extension.
  
  ### Description: 
  I've created a program which classified you files on the basis of extention, which your work easily to collect files on the basis of 
