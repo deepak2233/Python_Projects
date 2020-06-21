@@ -19,8 +19,8 @@
  your all files on the basis of extensions. It will automatically generate folders on the basis of the extensions name.  
  
  ### Demo:
- For Demo, I have attached two images file. you can reffer this. In first image you will see hetrogenious filse (it may be PDF, JPG, 
- PND, XLC, MP3, MP4 etc. and in second image you will see result of the program.
+ For Demo, I have attached two images files. you can refer to this. In the first image, you will see the heterogeneous files (it may be PDF, JPG,
+ PND, XLC, MP3, MP4, etc. and in the second image you will see the result of the program. 
  
  ### SKILLS USED:
  Basic Python and some usefull library. 
