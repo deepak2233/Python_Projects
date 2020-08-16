@@ -33,7 +33,7 @@ for extension_type, extension_tuple in dict_extensions.items():
         item_path = os.path.join(folderpath,item)
         item_new_path = os.path.join(folder_path,item)
         shutil.move(item_path,item_new_path)
-        
+         
         
         
         
