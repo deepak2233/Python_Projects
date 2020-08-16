@@ -32,7 +32,10 @@
  ---
  ### INPUT:
  ![Input directory](https://github.com/deepak2233/Python_Projects/blob/master/Project%20Demo.png)
- <br>
+ 
+ ---
+ 
+ ### OUTPUT:
  ![Output](https://github.com/deepak2233/Python_Projects/blob/master/Proect%20Demo%20Result.png)
  
  ---
