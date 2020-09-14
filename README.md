@@ -30,7 +30,7 @@
  For Demo, I have attached two images files. you can refer to this. In the first image, you will see the heterogeneous files (it may be     PDF, JPG, PND, XLC, MP3, MP4, etc. and in the second image you will see the result of the program. 
  
  ---
- ### INPUT:
+ ### INPUT: 
  ![Input directory](https://github.com/deepak2233/Python_Projects/blob/master/Input_Directory.png)
  
  ---
